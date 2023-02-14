@@ -10,7 +10,7 @@ import javax.swing.text.StyledEditorKit.ForegroundAction;
         int m1,m2,n;
         String primeraInst, segundaInst, mensaje, mensajeAuxiliar[]={"",""};/* s mensajeAux2=""*/;
         primeraInst="CeseAlFuego"; //a
-        segundaInst="CorranACubierta";
+        segundaInst="Corran->Cubierta";
         //       XXcaaamakkCCxessseAAllFueeegooDLLKmmNNN
         mensaje="XXCaaamakkCxessCseAAllFueeegooDCLLKmmNNN"; //b
         m1=primeraInst.length();
